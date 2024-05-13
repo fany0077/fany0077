@@ -1,9 +1,11 @@
-### Hi there 👋
+## Olá pessoal, eu sou a Sthefany Almeida!!!
 
-<!--
-**fany0077/fany0077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<div>
+ < img  alinhar = " centro "  alt = " Rafa-CSS "  altura = " 30 "  largura = " 40 "  src = " https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original .svg " >
+  < img  alinhar = " centro "  alt = " Rafa-Python "  altura = " 30 "  largura = " 40 "  src = " https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original .svg " >
+  < img  alinhar = " centro "  alt = " Rafa-Csharp "  altura = " 30 "  largura = " 40 "  src = " https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original .svg " >
+  < img  align = " right "  alt = " Rafa-pic "  height = " 150 "  style = " border-radius : 50 px ; "  src = " https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1 .png?width=676&height=676 " >
+</div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
