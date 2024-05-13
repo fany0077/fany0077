@@ -1,18 +1,21 @@
 ## Olá pessoal, eu sou a Sthefany Almeida!!!
 
-<div>
- < img  alinhar = " centro "  alt = " Rafa-CSS "  altura = " 30 "  largura = " 40 "  src = " https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original .svg " >
-  < img  alinhar = " centro "  alt = " Rafa-Python "  altura = " 30 "  largura = " 40 "  src = " https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original .svg " >
-  < img  alinhar = " centro "  alt = " Rafa-Csharp "  altura = " 30 "  largura = " 40 "  src = " https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original .svg " >
-  < img  align = " right "  alt = " Rafa-pic "  height = " 150 "  style = " border-radius : 50 px ; "  src = " https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1 .png?width=676&height=676 " >
-</div>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![fany0077 GitHub stats](https://github-readme-stats.vercel.app/api?username=fany0077&show_icons=true&theme=radical)
+
+##Tecnologias
+<div style = "display: inline_block"><br/>
+   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+</div>
+ <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"
+</div>
+ <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+</div>
+ <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"
+</div><br/>
+
+Estou super feliz em embarcar nessa jornada fascinante de descobrir o mundo da programação e tudo o que o cerca. É incrível como a tecnologia molda o nosso presente e futuro, e me sinto privilegiado(a) em poder fazer parte dessa revolução.
+Neste espaço, você encontrará meus projetos, experimentos e aprendizados. Acredito na força do código aberto e na colaboração, então sinta-se à vontade para explorar, contribuir e me contatar! 
